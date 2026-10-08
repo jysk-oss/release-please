@@ -1,3 +1,13 @@
+> [!IMPORTANT]
+> **This is a temporary fork of [googleapis/release-please](https://github.com/googleapis/release-please).**
+>
+> It exists only to carry the changes proposed in
+> [googleapis/release-please#2774](https://github.com/googleapis/release-please/pull/2774).
+> Nothing else is intended to differ from upstream.
+>
+> Once that pull request is merged and released upstream, switch consumers back
+> to the published `release-please` package and **delete this repository**.
+
 <img src="https://avatars2.githubusercontent.com/u/2810941?v=3&s=96" alt="Google Cloud Platform logo" title="Google Cloud Platform" align="right" height="96" width="96"/>
 
 # [Release Please](https://github.com/googleapis/release-please)
